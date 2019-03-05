@@ -1,6 +1,6 @@
 {
   "name": "create-react-ionic-sidemenu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a react-ionic sidemenu starter template",
   "main": "index.js",
   "bin": {

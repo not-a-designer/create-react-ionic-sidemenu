@@ -1,6 +1,6 @@
 # create-react-ionic-sidemenu
 # Install globally (-g)
-Creates a blank ionic app with react
+Creates a sidemenu ionic app with react
 
 This package was created as way to automatically create the starter 'sidemenu' template for Ionic with React
 ___
