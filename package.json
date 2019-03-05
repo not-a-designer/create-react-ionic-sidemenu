@@ -1,0 +1,29 @@
+{
+  "name": "create-react-ionic-sidemenu",
+  "version": "1.0.0",
+  "description": "Creates a react-ionic sidemenu starter template",
+  "main": "index.js",
+  "bin": {
+    "create-react-ionic-sidemenu": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/not-a-designer/create-react-ionic-sidemenu.git"
+  },
+  "keywords": [
+    "react",
+    "ionic",
+    "sidemenu",
+    "template",
+    "starter"
+  ],
+  "author": "Joel Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "shelljs": "^0.8.3"
+  }
+}
